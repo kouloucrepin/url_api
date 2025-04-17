@@ -574,7 +574,7 @@ async def get_ui():
     <body>
         <div class="title-section">
             <h1>Classificateur de Prunes Africaines</h1>
-            <a href="https://firebasestorage.googleapis.com/v0/b/itchop-9bf14.appspot.com/o/PlumAnalyserApp.apk?alt=media&token=dd547405-7c50-4dd5-9e72-6d694a7acdb8" target="_blank" class="link-btn">Télécharger l'application</a>
+            <a href="https://firebasestorage.googleapis.com/v0/b/itchop-9bf14.appspot.com/o/PlumAnalyserAppV1.apk?alt=media&token=1295c76b-97c0-4ab5-bdd5-527527a63bc4" target="_blank" class="link-btn">Télécharger l'application</a>
         </div>
         
         <div class="info-box">
